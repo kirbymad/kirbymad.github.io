@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Puja Chakraborty - Personal Website</title>
+    <link rel="stylesheet" href="https://latex.vercel.app/style.css">
+</head>
+<body>
+    <header>
+        <h1>Puja Chakraborty</h1>
+        <p>Welcome to my personal website!</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#resume">Resume</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Welcome! I am Puja Chakraborty, a dedicated student at Mount Holyoke College pursuing a double major in Chemistry and Computer Science. With a current CGPA of 3.8, I am passionate about integrating these fields to drive innovation in materials science and quantum computing.</p>
+        </section>
+        <section id="resume">
+            <h2>Resume</h2>
+            <h3>Education</h3>
+            <p><strong>Mount Holyoke College, South Hadley, MA</strong><br>
+            Bachelor of Arts | Major(s): Chemistry, Computer Science (Intended), Current CGPA : 3.8 (May 2027)</p>
+
+            <h3>Relevant Experiences</h3>
+            <p><strong>Undergraduate Research Assistant, Gomez Lab, Mount Holyoke College</strong> (May 2024 - Present)<br>
+            Investigate impact of charged defects on ionic conduction in materials, focusing on doped perovskite oxides for proton conduction in fuel cells and lithium/lanthanum/zirconium oxides for lithium-ion conduction in batteries. Utilize ab-initio tools to analyze large datasets using traditional graph theory tools and extensions. Advancing understanding of materials science and ionics.</p>
+
+            <p><strong>Undergraduate Research Assistant, Lin Group, UMass Amherst, Amherst, MA</strong> (May 2024 - Present)<br>
+            Investigate Machine-Learned Fragment-Based Quantum Chemistry. Develop methods for high-throughput materials discovery. Address computational bottlenecks in many-fragment interactions. Integrate machine learning algorithms for evaluating interactions and density-to-potential inversions.</p>
+
+            <p><strong>Participant (Womanium Scholar), Womanium Global Quantum+AI Program 2024</strong> (June 2024 - August 2024)<br>
+            Engaging in Gamified Quantum, Quantum Computing, AI & Machine Learning, Quantum Machine Learning, Quantum Algorithms, and Industry Projects. Explored real-world applications with industry and government partners.</p>
+
+            <p><strong>AI4ALL - Discover AI</strong><br>
+            Learning, AI implications, Machine Learning, and how to use them ethically.</p>
+
+            <p><strong>Competitor/Researcher, Terris Challenge ‘21, Superposition Fretmont International Stem Contest</strong> (2021)<br>
+            6th Among 300+ Globally; Researched, Analyzed, and presented a poster on “In-Vitro Gametogenesis: Female IPSCs and Sperm Cells”; read 30+ research papers.</p>
+
+            <p><strong>8th Children Science Congress ‘21, Bangladesh</strong> (2021)<br>
+            4th Among 400+ in the nation; Researched analyzed & presented a poster on “Cognitive Bias in Human Mind and How it Affects Our Decision Making”.</p>
+
+            <p><strong>Mental Health Team Intern, InclusionX, Bangladesh</strong> (Oct 2021 - July 2022)<br>
+            Scripted and Designed Videos; Generated 50000+ Views; Cooperated with prominent psychologists in Bangladesh.</p>
+
+            <p><strong>Contributor, The Daily Star</strong> (December 2022 - present)<br>
+            Authored News, Feature, and Opinion Articles for the most popular national English newspaper.</p>
+
+            <p><strong>Organizing Team, Jatrik (Arts Management Company), Bangladesh</strong> (December 2022 - January 2023)<br>
+            Reached out to 50+ Sponsors to host the Biggest English Literary Fest (Dhaka Lit Fest 2023).</p>
+
+            <p><strong>Research/Publication team, Astronomical, Bangladesh</strong><br>
+            Researched popular Astronomy Phenomenons, papers, and books to write concise social media posts for high school students. Graphics Design for the Social Media posts.</p>
+
+            <h3>Leadership and Co-curricular Activities</h3>
+            <p><strong>Co-Founder, Projonmo Youth Organization</strong><br>
+            Awarded “Joy Bangla Youth Award ‘21” (out of 1000+ Youth-Led Organizations nationally) by the Prime Minister. Raised 10k+ USD & distributed 22 oxygen Cylinders, PPE, and masks in underprivileged hospitals during COVID.</p>
+
+            <p><strong>Vice President, Rajuk College Debate Club</strong><br>
+            Arranged weekly grooming Sessions, National Debate festivals, Led team to win countless national Debate Competitions.</p>
+
+            <p><strong>Student Government (President of student board, Elected)</strong><br>
+            Collaborated with the trustee Board for change in the structure of the curricula.</p>
+
+            <h3>Skills and Interests</h3>
+            <p><strong>Technical</strong>: Python, Javascript, Visual Code, Robomind, LINUX, Replit, Github, R, TOPCAT (Astronomical Graph Plotting Software), Aladdin Sky Atlas (Interactive sky atlas to visualize digitized astronomical images), Microsoft Office.</p>
+            <p><strong>Language</strong>: English, Bengali (First Language), Hindi, Urdu, Odia.</p>
+            <p><strong>Music</strong>: Trained Indian Classical Vocalist (nationally awarded), and Western Classical Pianist.</p>
+        </section>
+        <section id="research">
+            <h2>Gomez Lab Research Poster</h2>
+            <p>Here is the latest research poster we presented:</p>
+            <embed src="AnhDaoPujaChakraborty.pdf" type="application/pdf" width="100%" height="600px" />
+            <p><a href="AnhDaoPujaChakraborty.pdf" target="_blank">Download Poster</a></p>
+        </section>
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Email: <a href="mailto:chakr25p@mtholyoke.edu">chakr25p@mtholyoke.edu</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/puja-chakraborty-b11b64220/" target="_blank">Puja Chakraborty</a></p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Puja Chakraborty</p>
+    </footer>
+</body>
+</html>
